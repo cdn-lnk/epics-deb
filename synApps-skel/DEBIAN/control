@@ -1,0 +1,5 @@
+Package: epics-synApps
+Version: 6.0
+Architecture: amd64
+Maintainer: cdn.lnk@gmail.com
+Description: EPICS synApps
